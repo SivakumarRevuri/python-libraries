@@ -1,0 +1,32 @@
+Pandas:
+    Pandas is a python module that makes data science easy and effective.
+
+install: python -m pip install pandas
+
+Introduction:
+    1. High performance Data analysis tool
+    2. working with large data set
+    3. it supports/load files with different formats.
+    4. more flexible to use.
+    5. represents in tabular format(rows & columns).
+    6. best suitable to work on missing data
+    7. Indexing, slicing, subsetting the large data sets.
+    8. we can merge or join two different data sets easily.
+    9. we can also re-shape data sets.
+
+==> 3 data strucutres
+        a. Series: data represents in one dimensional e.g. List(arg)
+        b. Data Frame: two dimensional e.g. list/dict/series/another data frame
+        c. Panel: multi-dimensional e.g data, major axis, minor axis
+
+import pandas as pd
+pd.Series(data=, index=1)
+pd.DataFrame(data=) ==> most efficient and dict data type is recommanded to use.
+pd.Panel(data, majoraxis, minoraxis, dtype)
+
+1. Process of cleaing messy data is called "data munging" or "data wrangling".
+                (or)
+    processing the raw data or structured/processed data
+
+DataFrame:
+    Dataframe is a main object in Pandas. It is used to represent the data with rows and columns(tabular format).
