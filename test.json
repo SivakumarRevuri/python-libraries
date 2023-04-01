@@ -1,0 +1,23 @@
+[
+Obj1: [Name: Sam, Job History: [
+            {Des: Plumber, Start Date: 2004-04-01, End Date: 2006-10-01
+            },
+            {Des: Plumber, Start Date: 2007-02-10, End Date: 2010-12-05
+            }
+        ]
+    ]
+Obj2: [Name: John, Job History: [
+            {Des: Secretary, Start Date: 2012-07-05, End Date: 2020-04-30
+            },
+            {Des: Office Staff, Start Date: 2000-05-25, End Date: 2010-03-10
+            }
+        ]
+    ]
+Obj3: [Name: Stephen, Job History: [
+            {Des: Typist, Start Date: 1995-08-10, End Date: 2005-06-11
+            },
+            {Des: Back office Manager, Start Date: 2012-11-02, End Date: 2019-03-12
+            }
+        ]
+    ]
+]
