@@ -1,0 +1,6 @@
+
+-- pandas references:
+        1. Corey Shafer 
+            Pandas playlist: https://www.youtube.com/playlist?list=PL-osiE80TeTsWmV9i9c58mdDCSskIFdDS
+        2. data school by kevin markham
+            
