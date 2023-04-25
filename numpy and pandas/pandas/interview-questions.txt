@@ -1,0 +1,50 @@
+Pandas interview questions :-
+
+What are the basic data structures in pandas?
+How do you create a DataFrame in pandas?
+How do you read a CSV file in pandas?
+How can you select specific columns from a DataFrame in pandas?
+How do you filter rows in a DataFrame based on a condition in pandas?
+How do you handle missing values in a DataFrame using pandas?
+How do you merge two DataFrames in pandas?
+How do you perform groupby operation in pandas?
+How do you rename columns in a DataFrame using pandas?
+How do you sort a DataFrame by a specific column in pandas?
+How do you aggregate data using pandas?
+How do you apply a function to each element in a DataFrame in pandas?
+How do you perform data visualization using pandas?
+How do you handle duplicate data in a DataFrame using pandas?
+How do you calculate descriptive statistics for a DataFrame using pandas?
+How do you set the index of a DataFrame using pandas?
+How do you reset the index of a DataFrame in pandas?
+How do you concatenate multiple DataFrames in pandas?
+How do you pivot a DataFrame in pandas?
+How do you melt a DataFrame in pandas?
+How do you calculate the correlation between columns in a DataFrame using pandas?
+How do you handle outliers in a DataFrame using pandas?
+How do you extract unique values from a column in a DataFrame using pandas?
+How do you calculate cumulative sum in a DataFrame using pandas?
+How do you convert data types of columns in a DataFrame using pandas?
+How do you handle datetime data in a DataFrame using pandas?
+How do you resample time-series data in pandas?
+How do you merge and append DataFrames with different column names in pandas?
+How do you handle multi-level indexing in pandas?
+How do you drop columns from a DataFrame in pandas?
+How do you create a pivot table in pandas?
+How do you calculate rolling statistics in pandas?
+How do you concatenate strings in a DataFrame column using pandas?
+How do you create a cross-tabulation in pandas?
+How do you handle categorical data in pandas?
+How do you calculate cumulative percentage in a DataFrame column using pandas?
+How do you handle data imputation in pandas?
+How do you calculate percentage change in a DataFrame column using pandas?
+How do you calculate the rank of values in a DataFrame column using pandas?
+How do you calculate the difference between consecutive values in a DataFrame column using pandas?
+How do you drop duplicate rows based on a specific column in pandas?
+How do you calculate the mean, median, and mode of a DataFrame column using pandas?
+How do you create a histogram of a DataFrame column using pandas?
+How do you create a box plot of a DataFrame column using pandas?
+How do you create a scatter plot of two columns in a DataFrame using pandas?
+How do you create a line plot of a DataFrame column using pandas?
+How do you calculate the cumulative sum of a column based on another column in pandas?
+How do you calculate the cumulative sum of a column within groups in pandas?
