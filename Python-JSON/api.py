@@ -6,7 +6,7 @@ with urlopen("https://finance.yahoo.com/webservice/v1/symbols/allcurrencies/quot
 
 data = json.loads(source)
 
-# print(json.dumps(data, indent=2))
+print(json.dumps(data, indent=2))
 
 usd_rates = dict()
 
@@ -15,4 +15,4 @@ for item in data['list']['resources']:
     price = item['resource']['fields']['price']
     usd_rates[name] = price
 
-print(50 * float(usd_rates['USD/INR']))
+# print(50 * float(usd_rates['USD/INR'])); checks the values 50 dollors in Euros
